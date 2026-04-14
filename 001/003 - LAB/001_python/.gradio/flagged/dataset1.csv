@@ -1,0 +1,6 @@
+Ingresa tu texto aquí,Resultado del Análisis,Top de Frecuencias,timestamp
+"Hola que tal como estás? Hola!!
+","'--- Resumen del Análisis ---
+Total de Palabras: 6
+Palabras Únicas: 5
+Palabra Más Frecuente: 'hola' (2 veces)","{""label"": ""hola"", ""confidences"": [{""label"": ""hola"", ""confidence"": 2.0}, {""label"": ""que"", ""confidence"": 1.0}, {""label"": ""tal"", ""confidence"": 1.0}, {""label"": ""como"", ""confidence"": 1.0}, {""label"": ""est\u00e1s"", ""confidence"": 1.0}]}",2026-04-14 18:02:03.260186
