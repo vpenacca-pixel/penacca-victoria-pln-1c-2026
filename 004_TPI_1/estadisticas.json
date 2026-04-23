@@ -1,7 +1,7 @@
 {
     "fecha_reporte": "2026-04-16",
     "metricas_generales": {
-        "total_documentos": 4,
+        "total_documentos": 142,
         "total_tokens": 3300,
         "vocabulario_lemas_unicos": 579,
         "total_oraciones": 87

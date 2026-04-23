@@ -11,7 +11,7 @@ with sync_playwright() as p:
 
     # Minimizamos avisos de pantalla
     try:
-        boton = page.wait_for_selector('button:has-text("Aceptar")', timeout=3000)
+        boton = page.wait_for_selector('button:has-text("Aceptar")', timeout=60000)
         if boton: boton.click()
     except:
         pass

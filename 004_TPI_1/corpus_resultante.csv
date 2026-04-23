@@ -1,4 +1,4 @@
-﻿0,origen,texto
+﻿0,origen,texto,seccion,titulo
 "Epstein y la decadencia del sistema científico
 La publicación de los archivos del multimillonario mostró su interés por infiltrarse en la élite académica y cómo lo hacía. Una falla estructural en el sistema que produce conocimiento.
 El escándalo de Jeffrey Epstein suele apoyarse en escenografías de islas privadas, jets y abusos repugnantes. La trama del multimillonario pedófilo se escribe sola y no hace más que confirmar las peores sospechas acerca de las élites.
@@ -30,7 +30,7 @@ La manera en que pudo lograr saltar muchas trabas fue evitar demasiado escrutini
 Depender de la caridad de los ultra ricos para sostener la maquinaria del conocimiento suele traer como costo el alejamiento de cualquier concepción de la ciencia como un interés democrático fundamental. Si la labor científica es de facto una actividad elitista y meritocrática —algo que bien puede defenderse como virtuoso—, las cenas íntimas y viajes en jets privados no ayudan a su percepción pública como una empresa colectiva sostenida por la sociedad que la financia.
 Aunque durante años se seguirán sacando conclusiones sobre lo que el caso Epstein dejó ver, el hecho de que su nombre aparezca sistemáticamente asociado a la labor científica debería bastar para sospechar que la dinámica idealizada del sistema científico es, en gran medida, una ficción. Y, sin embargo, lejos de volvernos en contra de la inagotable persecución del apetito por el asombro, es una buena oportunidad para revisar sus mecanismos con el fin de arreglar lo que siempre estuvo roto.
 La búsqueda crónica y desesperada de fondos en el sistema científico, cuyo origen ha sido discutido ad nauseam, expuso una vulnerabilidad estructural en sus cimientos, producto del más rancio hipercapitalismo, capaz de gestar un club intelectual en el intersticio entre un salón de clases y una red de tráfico sexual.
-El problema de fondo trasciende a Epstein y su hazaña de comprar un asiento en la mesa de los genios. Lo que su caso puso a la vista de todos es que esta mesa siempre estuvo en venta.",web,
+El problema de fondo trasciende a Epstein y su hazaña de comprar un asiento en la mesa de los genios. Lo que su caso puso a la vista de todos es que esta mesa siempre estuvo en venta.",web,,,
 "El cerebro tal vez no sea una computadora
 El humano, a lo largo de la historia, comparó su mente con la máquina y a la máquina con capacidad de pensar, pero no es correcto ni exacto.
 “Las analogías entre las máquinas y la actividad neuronal no me convencen”, confesaba el psicólogo conductual Karl Lashley ante la American Neurological Association en junio de 1951. Se basaba en una sencilla observación: cada época tiende a apoyarse en su tecnología más avanzada para explicar cómo funciona el cerebro.
@@ -62,7 +62,7 @@ La adopción acrítica de la mente como una computadora hace un poco más digeri
 Las metáforas científicas no buscan ser verdaderas en un sentido absoluto, sino productivas. Nos sirven mientras nos permitan formular nuevas preguntas y diseñar experimentos que antes eran impensables. La metáfora del reloj sirvió para entender ciertos mecanismos automáticos; la de la computadora fue fundamental para avanzar en neurociencia cognitiva y en inteligencia artificial.
 El problema surge cuando la metáfora se calcifica y nos impide ver más allá. Nuestra obsesión con el modelo computacional puede hacernos ignorar todo aquello que no encaje en el esquema, incluso cuando sirve para iluminar el abismo infinito hacia el interior de la mente.
 “Es más probable que descubramos cómo funciona el cerebro estudiando el propio cerebro y los fenómenos del comportamiento que permitiéndonos analogías físicas inverosímiles”, cerraba Lashley hace 75 años.
-Foto: Depositphotos",web,
+Foto: Depositphotos",web,,,
 "La fragilidad de Internet
 La caída de un servicio de Amazon dejó sin acceso a millones de usuarios. Aunque la red fue diseñada para resistir a todo, su infraestructura está centralizada.
 El lunes 20 de octubre de 2025, algo tan sencillo como cargar la SUBE o hacer una transferencia bancaria se volvió imposible. Lo mismo pasó con escuchar música, mandar un mensaje, revisar si un paquete venía en camino, subirse a un avión o leer las noticias. Para millones de personas alrededor del mundo, grandes pedazos de internet no estuvieron disponibles.
@@ -93,7 +93,7 @@ La nube no existe
 La solución a largo plazo no es simplemente exigir más redundancia o contratar dos servicios de nube en lugar de uno. Eso es tratar el síntoma, no la enfermedad. La verdadera resiliencia exige un cambio fundamental en cómo concebimos nuestra infraestructura digital.
 Quizá la decisión de depositar tantas funciones críticas de nuestras soluciones digitales en un puñado de proveedores no deba ser una cuestión meramente técnica sino una sujeta a consideraciones más profundas. La nube no existe, es la computadora de alguien más. Y todo esto, que transcurre sobre el mismo plano terrenal, tiene consecuencias bien concretas.
 Desde 2022, Amazon despidió a más de 27.000 empleados, incluyendo ingenieros senior con décadas de experiencia. La sospecha es que la lentitud para resolver la crisis —casi una hora y media para identificar que el problema era de DNS, un culpable tan frecuente que tiene su propio haiku: “No es el DNS / imposible que sea DNS / pero era DNS”— se debe a una fuga de conocimiento institucional. Como sugirió un experto, se puede contratar gente muy inteligente que entienda la teoría, pero no se puede contratar a la persona que recuerda que cuando el DNS se pone caprichoso, hay que revisar aquel sistema aparentemente inconexo en un rincón que ya causó problemas en el pasado. Ese “conocimiento tribal”, esa memoria muscular de una organización, se fue con los despidos.
-Internet debía seguir funcionando aunque cayeran bombas… pero se cayó el DNS.",web,
+Internet debía seguir funcionando aunque cayeran bombas… pero se cayó el DNS.",web,,,
 ,audio,"¿Qué mueve a la ciencia? ¿Cuál es el motor de la ciencia? Curiosidad, búsqueda del bien común, pero grosso, pi cáncelo, pi cáncelo ustedes, vamos a tratar de recorrer un poquito de esa pregunta durante esta charla, pero antes de ir directo hacia ella quiero que participemos un poco. Y para eso los quiero invitar a quien quiere ser millonario. Yo soy matemático pero me gusta la 
 
 astronomía. Quiero preguntarles cuál es el personaje más importante de la historia de la astronomía y les traje algunos candidatos. Nicola Copernico, Tico Brae, Jojan Schäpler y Zach Newton. A ver, participemos muy rápido, ¿quién levanta la mano por la A? Nicola Copernico. Muy bien, vamos a ir anotando aquí las respuestas en el Comunido del Público, alternativas B, Tico Brae. 
@@ -194,4 +194,143 @@ y como soy yo el que está que arriba voy a contestar yo? Para mí es y será si
 
 que tratar de hacer que la humanidad sea mejor. Todo lo que hacemos viene de lo que somos y somos grises y diversos. Así que si ustedes no quieren ser olvidados como Tico, porque van a estar frente a dilema éticos, fórumense, aprendan para poder tomar la mejor decisión posible. Muchas gracias. 
 
-"
+",,
+,json,,General,Hablará el miércoles. Milei dijo que acompañará a Adorni en el Congreso y confirmó que buscará la reelección
+,json,,General,"Salarios, indemnizaciones y vacaciones. Cómo quedó la reforma laboral tras el aval de la Cámara del Trabajo"
+,json,,General,El padre de Vaca Muerta. Cómo hizo Galuccio para convertir un “cheque en blanco” en una empresa de US$ 8.000 millones
+,json,,General,"Bloqueo a la prensa. Una decisión inédita, tomada en la noche y con una filmación en la Casa Rosada como justificación"
+,json,,General,Los motivos. Se desplomó la cantidad de nuevos jubilados este año
+,json,,General,“Riesgo constante”. Alerta por la eventual expansión de una enfermedad altamente contagiosa durante el Mundial
+,json,,General,"""Servicio esencial"". El Gobierno declaró ilegal el paro en el SMN y el gremio evalúa los pasos a seguir"
+,json,,General,"Gana Boca. Tras un gol anulado a Defensa a instancias del VAR, Giménez puso en ventaja al Xeneize con una gran definición"
+,json,,General,Escándalo en Madrid. Trungelliti se enojó con el público que le faltó el respeto durante su partido con un rival español
+,json,,General,Pagó un precio récord. Peter Thiel compró una casa en el barrio más exclusivo de Buenos Aires enfrente de Susana Giménez
+,json,,SELECCIÓN DEL EDITOR,"A FONDO
+Publicidades, un calendario que ayuda y un silencio que habla: las señales que empujan a Messi a su Mundial récord"
+,json,,POLÍTICA Y ECONOMÍA,Mercados. Fuerte castigo al riesgo argentino en la jornada
+,json,,POLÍTICA Y ECONOMÍA,Viaje familiar. La Justicia confirmó que Adorni pagó 8874 dólares en efectivo para hospedarse en Aruba
+,json,,POLÍTICA Y ECONOMÍA,Los números de la crisis. Un reconocido fabricante de electrodoméstico entró en concurso preventivo
+,json,,POLÍTICA Y ECONOMÍA,Sala cerrada. La denuncia del Gobierno contra periodistas se contradice con la propia normativa interna que impuso Milei
+,json,,POLÍTICA Y ECONOMÍA,La lista. Larreta comparó a la Argentina con cuatro regímenes autoritarios
+,json,,POLÍTICA Y ECONOMÍA,Comodoro Py. Piden archivar la causa contra Adorni por incluir a su pareja en el viaje oficial a los Estados Unidos
+,json,,POLÍTICA Y ECONOMÍA,El modelo de La Plata. Unanimidad y ocultamiento: la tragedia universitaria
+,json,,POLÍTICA Y ECONOMÍA,Colocación de un bono. Chubut captó US$650 millones del mercado global
+,json,,ACTUALIDAD,“Hito fundamental”. Dos países de América del Sur inician el camino para restablecer relaciones diplomáticas tras 50 años de ruptura
+,json,,ACTUALIDAD,Desescalada. Trump anunció una prórroga de tres semanas del alto el fuego entre Israel y el Líbano
+,json,,ACTUALIDAD,"""Ahora me van a detener"". Fue la mano derecha del hombre más famoso, estaba prófugo y dio una insólita entrevista antes de entregarse"
+,json,,ACTUALIDAD,"""Nos divertimos mejor que ustedes"". Los videos de las fiestas con deportistas que organizó la agencia investigada por prostitución y drogas en Italia"
+,json,,ACTUALIDAD,Furor en la calle Florida. Una popular tienda china abrió hoy sus puertas en Buenos Aires
+,json,,ACTUALIDAD,Peligran tratamientos para el cáncer. La desesperada iniciativa del Hospital Roffo para conseguir fondos
+,json,,ACTUALIDAD,"“El reloj está corriendo”. Tras fuertes advertencias, Trump descarta el uso de armas nucleares contra Irán"
+,json,,ACTUALIDAD,Decisión oficial. Los alumnos porteños que pierdan clases por amenazas deberán recuperar los días en diciembre
+,json,,ACTUALIDAD,"Jugará un mundial en México. Tiene 18 años, entrena en el monte chaqueño y sueña con sacar a su familia de la pobreza"
+,json,,ACTUALIDAD,“Triste”. Una centella mató 33 terneros y provocó pérdidas millonarias
+,json,,ACTUALIDAD,En Palermo. Detuvieron a un exmilitar mexicano implicado en una red de contrabando internacional de combustible
+,json,,ACTUALIDAD,Miradas. La parábola del Titanic
+,json,,ACTUALIDAD,"""Tiene molestias"". Cómo serán los próximos días de Susana, entre estudios médicos y una distinción muy especial"
+,json,,EL MUNDO,“Tocar las partes íntimas”. Una turista extranjera dañó un monumento histórico en Florencia por un reto viral antes de su boda
+,json,,EL MUNDO,Nuevo liderazgo en Irán. Los militares desplazan a los clérigos: los generales que dirigen al régimen en la guerra
+,json,,EL MUNDO,“Antes de su caída”. La demoledora tapa de la revista Time sobre el futuro de Cuba
+,json,,DEPORTES,"""Maltratan al jugador"". Un futbolista de Estudiantes de Río Cuarto rompió el silencio tras ser excluido del plantel"
+,json,,DEPORTES,"""Me sentiría ofendido"". Italia no reemplazará a Irán en el Mundial del 2026: los motivos de la negativa de la selección europea"
+,json,,DEPORTES,Alarma en inferiores. Rosario Central suspende la categoría 2013 tras una denuncia por violencia y abuso entre menores
+,json,,MÁS NOTICIAS,"""Unos días más en casa"". Mirtha contó cómo está su salud y dijo que se volverá a ausentar de su programa"
+,json,,MÁS NOTICIAS,Costó US$200.000. Llenaron la terraza del estadio con paneles solares para conseguir un récord
+,json,,MÁS NOTICIAS,Qué pasa con los vuelos programados. Cerró temporalmente uno de los principales aeropuertos de España
+,json,,MÁS NOTICIAS,Management 2030. El ciclo sorprendió con el debut de los clones digitales y líderes “superhéroes” en versión IA
+,json,,MÁS NOTICIAS,Tiene 2400 hectáreas. Recibió un campo degradado y una decisión le cambió el rumbo para siempre
+,json,,MÁS NOTICIAS,"""En apenas 10 minutos"". La muy cuestionada fusión Paramount-Warner está más cerca, tras obtener un respaldo clave"
+,json,,MÁS NOTICIAS,"Festejo. Uma, la hija de Amalia Granata y el Ogro Fabbiani, cumplió 18 años: así está hoy"
+,json,,MÁS NOTICIAS,"Asistente de Contepomi. Vive en Nueva Zelanda, trabaja a distancia con los Pumas y apunta a consolidarlos entre los cuatro mejores"
+,json,,MÁS NOTICIAS,"Emblemas de la ""Pampa gringa"". La curiosa historia de las tres localidades que comparten nombre y origen"
+,json,,MÁS NOTICIAS,"""Seguiré luchando"". Los últimos días de Martín Karadagian, el hombre que construyó un imperio, se convirtió en leyenda y fue víctima de su vanidad"
+,json,,MÁS NOTICIAS,"“Me enamoré de una tucumana”. Atrapada en el barro, sobrevivió a una inundación, perdió a sus crías y forjó un vínculo inesperado con quien la ayudó"
+,json,,MÁS NOTICIAS,¿Cuánto sabés de música? Leo Rodríguez te desafía en un test de 10 preguntas
+,json,,HISTORIAS Y PERSONAJES,“Tengo el vestido en casa”. La revelación de Chloé Bello sobre el casamiento que planeó con Gustavo Cerati
+,json,,HISTORIAS Y PERSONAJES,"""Triste"". Las impactantes revelaciones de la muerte de Christina Onassis en la Argentina que hizo su ahijada"
+,json,,HISTORIAS Y PERSONAJES,"""Vivimos lo peor que puede vivir una pareja"". Martín, de GH: de su dolorosa pérdida familiar al delicado diagnóstico que enfrentó"
+,json,,HISTORIAS Y PERSONAJES,Por tierra y por mar. La historia del vehículo anfibio que protagonizó el cruce más extraño del Canal de la Mancha
+,json,,HISTORIAS Y PERSONAJES,"Qué pasó. El llamativo pedido de ayuda del campeón de La Voz Argentina, a meses de consagrarse"
+,json,,OTROS TEMAS,“Es perder dinero”. Los yerbateros hacen piquetes en las rutas de Misiones para pedir un mejor precio
+,json,,OTROS TEMAS,US$60.000 millones. Elon Musk no quiere perder el tren de la IA y hace una apuesta fuerte por la app que le falta
+,json,,OTROS TEMAS,Tiene 7 episodios. Un crimen que en realidad no importa para la serie más incómoda y sugestiva del año
+,json,,OTROS TEMAS,"“Tragarse sus palabras"". El sobrino de Michael Jackson arremetió contra quienes critican la película y fue contundente"
+,json,,OTROS TEMAS,La Rioja. Tildó de “cornudo” y “coimero” a su expareja en redes y la Justicia la condenó a pagar $30 millones
+,json,,OTROS TEMAS,Trivia. ¿En qué países se cultivó por primera vez la papa?
+,json,,OTROS TEMAS,Encuentro de paisajismo en Salta. Quiénes estuvieron y cuáles son las ideas que hoy transforman los jardines argentinos
+,json,,OTROS TEMAS,"“La edad es poder”. Daisy Fuentes deslumbra en traje de baño, a los 59 años"
+,json,,OTROS TEMAS,Circuitos
+,json,,OTROS TEMAS,Combinadas
+,json,,OTROS TEMAS,Palabra oculta
+,json,,OTROS TEMAS,"Para el otoño. 6 recetas de sopas caseras: fáciles, nutritivas y reconfortantes"
+,json,,OTROS TEMAS,¿Fideos fritos? La receta en freidora de aire para convertir la pasta en un snack crocante y adictivo
+,json,,OTROS TEMAS,Cómo transformar un corte de carne en un manjar. La fórmula de 4 pasos para marinar y lograr una ternura que se deshace en la boca
+,json,,OTROS TEMAS,"Uno por uno. Ángela Fernández, psicóloga: “Las personas con ansiedad suelen compartir tres rasgos de personalidad”"
+,json,,OTROS TEMAS,"Emoción. Qué fue de la vida de Jorge Blanco, el actor que trabajó con Tini en Violetta"
+,json,,OTROS TEMAS,Para reflexionar. Rolón: “El amor es un territorio tan peligroso; tenés que estar atento a todos los detalles porque cada uno indica algo”
+,json,,OTROS TEMAS,Pistas. El escalofriante descubrimiento sobre el cometa 3I/ATLAS mientras abandona el sistema solar
+,json,,OTROS TEMAS,Fin del pan rallado. El ingrediente que siempre tenés y hace que tus milanesas queden más crocantes que nunca
+,json,,OTROS TEMAS,"Normativa. Qué pasa con el feriado del viernes 1° de Mayo, según la ley"
+,json,,OTROS TEMAS,Según especialistas. Qué significa que los pájaros canten durante el día en tu casa o jardín
+,json,,OPINIÓN,Inflación: lo que se sabe de marzo ¿Y abril?
+,json,,OPINIÓN,Gobernabilidad: el colapso del PAMI puede impedir acuerdos entre Milei y los gobernadores
+,json,,OPINIÓN,La violencia escolar sí existe y negarlo deja aún más solas a las escuelas
+,json,,OPINIÓN,Ante el agravio gratuito y enajenante
+,json,,OPINIÓN,Salud mental en alerta (Última parte)
+,json,,OPINIÓN,El coraje imperceptible de un héroe
+,json,,EXPO DE AUTOS EN CHINA,"Una idea de una automotriz china. Los autos con inodoros, la sorpresa de los nuevos modelos"
+,json,,EXPO DE AUTOS EN CHINA,Los precios por modelo. Todos los autos chinos que se venden en la Argentina
+,json,,BIENESTAR,Escapada. El pueblo a 1 hora de Buenos Aires con una reserva natural reconocida por la Unesco y más de 280 especies de aves
+,json,,BIENESTAR,Charlas pendientes. 12 preguntas sencillas para hacer una vez en la vida con los padres
+,json,,BIENESTAR,"Le dicen el ""oro blanco"". El alimento ignorado que mejora tu digestión en días"
+,json,,BIENESTAR,Único en el mundo. Los impactantes ataques de las orcas a los lobos marinos en Península Valdés
+,json,,BIENESTAR,Escándalo en Wall Street. Un prestigioso bufete de abogados presentó documentos judiciales plagados de “alucinaciones” de IA
+,json,,BIENESTAR,"Intriga en París. Un termómetro, un secador de pelo y una apuesta: cómo se gestó la estafa más insólita de Polymarket"
+,json,,BIENESTAR,“Capitalismo de vigilancia”. Cómo usa la IA el gobierno estadounidense para espiar a sus ciudadanos
+,json,,TECNOLOGÍA,Truco casero. Por qué recomiendan poner una moneda en el router del wifi y para qué sirve
+,json,,TECNOLOGÍA,Filtro Flash de Instagram. Así se puede hacer una foto analógica gratis con el efecto que es tendencia
+,json,,TECNOLOGÍA,"Tutor escolar 24/7. Guía para padres sobre cómo usar la IA para explicarles temas difíciles a los chicos sin que esta ""haga la tarea"" por ellos"
+,json,,MÁS LEÍDAS,Análisis. Un ladrillo flojo sacude la arquitectura del poder
+,json,,MÁS LEÍDAS,"En fotos. De Kim Kardashian y Lewis Hamilton, enamorados en Malibú al sensual look de Charlize Theron"
+,json,,MÁS LEÍDAS,"""Triste"". Las impactantes revelaciones de la muerte de Christina Onassis en la Argentina que hizo su ahijada"
+,json,,MÁS LEÍDAS,A los 82 años. Susana Giménez será sometida a un procedimiento médico tras sufrir fuertes dolores: qué se sabe sobre su salud
+,json,,MÁS LEÍDAS,Disputa por 1500 hectáreas. El empresario Roberto Urquía y una organización de campesinos firmaron un histórico acuerdo
+,json,,MÁS LEÍDAS,Una historia de 150 años. De botica de pueblo a laboratorio con proyección global
+,json,,MÁS LEÍDAS,Sumó ejecutivos. IDEA renovó sus autoridades para el período 2026-2027
+,json,,MÁS LEÍDAS,“Maniobras fraudulentas”. La Suprema Corte de Mendoza confirmó que Manaos deberá pagar $800 millones a un exempleado
+,json,,MÁS LEÍDAS,Opinión. Nadie puede desear lo que no conoce
+,json,,MÁS LEÍDAS,"Impuestos bajos, salud y educación gratuitas. Es la república más antigua del mundo y atrae a argentinos desde los ’90"
+,json,,ESPECTÁCULOS,"""Están a muerte conmigo"". Beto Casella le responde a todos, los Martín Fierro de Moda y Yanina Latorre... ¿llega a Luzu?"
+,json,,ESPECTÁCULOS,“Me encaró”. La figura internacional que intentó seducir a Nicole Neumann en un boliche
+,json,,ESPECTÁCULOS,"Postales de Coachella. Música, fans y los momentos que marcaron el festival"
+,json,,ESPECTÁCULOS,En el Palacio Libertad. La intimidad de artistas y deportistas argentinos en una gran muestra fotográfica
+,json,,ESPECTÁCULOS,Un ícono de Boedo. La cantina fundada por un italiano en 1926 que aún vende pasta por kilo
+,json,,ESPECTÁCULOS,"""La gente no viene a que le dé una lección”. El abogado e influencer que abrió una parrilla para sus “amigas recarnívoras” vuelve a incomodar al rubro"
+,json,,ESPECTÁCULOS,"Pueden alcanzar los 150 km/h. Impulsado por el “efecto Colapinto” y con transmisiones en vivo, correr en kartings se volvió un fenómeno masivo"
+,json,,ESPECTÁCULOS,Influenza en foco. Más de 100 expertos de América Latina debatieron estrategias para anticiparse a los nuevos desafíos
+,json,,ESPECTÁCULOS,"Descubren el ""oro dulce"". Un compuesto del regaliz podría frenar el Crohn, reducir la inflamación y prevenir la muerte celular"
+,json,,ESPECTÁCULOS,"Vitamina C. Para qué sirve, sus beneficios y qué dice la ciencia sobre si previene los resfríos"
+,json,,ESPECTÁCULOS,Beneficios y efectos. Qué le pasa al cuerpo al comer pan de masa madre todos los días
+,json,,ESPECTÁCULOS,La maniobra clave para escapar. Un especialista revela qué hacer si te cruzan un auto para robarte
+,json,,ESPECTÁCULOS,"Es el auto del año. Los precios de cada una de las versiones del Tera, uno de los modelos más vendidos de Volkswagen"
+,json,,ESPECTÁCULOS,La letra chica. ¿Hasta qué edad se puede renovar la licencia de conducir?
+,json,,ESPECTÁCULOS,¿Rasgos de coupé? Revelan cuál es el nuevo SUV que se venderá en la Argentina en poco tiempo
+,json,,ESPECTÁCULOS,¿Dónde conviene invertir? Rentabilidad de alquileres en CABA: los barrios que dejan más ganancia
+,json,,ESPECTÁCULOS,"Se consiguen desde los US$20.000. Las casas ""baratas"" que se venden listas para vivir"
+,json,,ESPECTÁCULOS,"""Hay lista de espera"". Se vendió un departamento en un lugar insólito en el que todo adicto a las compras querría vivir"
+,json,,ESPECTÁCULOS,"""Se gana un ambiente más"". Cuánto cuesta construir un quincho cerrado para el invierno"
+,json,,ESPECTÁCULOS,Semillas. Sturzenegger habló de “transferir el control” al sector privado
+,json,,ESPECTÁCULOS,Disputa por 1500 hectáreas. El empresario Roberto Urquía y una organización de campesinos firmaron un histórico acuerdo
+,json,,ESPECTÁCULOS,Deuda. Rizobacter busca canjear más de US$42 millones
+,json,,ESPECTÁCULOS,Tendrá una bombilla oficial. Se viene el Mundial de la Yerba Mate 2026
+,json,,LIFESTYLE,Temporada de choclos. Todas sus variables y cómo comerlos
+,json,,LIFESTYLE,Disfrutar más y gastar menos. 6 nuevos beneficios que llegan a Club LA NACION
+,json,,LIFESTYLE,"Ciudadanía italiana: hijos y nietos de italianos nativos, su reconocimiento en Italia"
+,json,,LIFESTYLE,De Aruba a República Dominicana. 8 islas del Caribe con playas soñadas para aprovechar el tipo de cambio
+,json,,LIFESTYLE,Encuentro de paisajismo en Salta. Quiénes estuvieron y cuáles son las ideas que hoy transforman los jardines argentinos
+,json,,LIFESTYLE,"Un buen programa. En Capilla del Señor, siete locales de objetos deco y curiosidades vintage para descubrir"
+,json,,LIFESTYLE,Patagonia. El casco de estancia que es hotel y volvió a la familia original en un campo repleto de fauna marina
+,json,,TE PUEDE INTERESAR,Próximo lunes. La Bancaria anunció un paro en el Banco Central y no abastecerá ni trasladará dinero a las entidades financieras ese día
+,json,,TE PUEDE INTERESAR,Feria del Libro. La grilla con las actividades y los invitados más destacados
+,json,,TE PUEDE INTERESAR,"Sombra, drenaje y mobiliario. Así será el nuevo parque de la Ciudad con más de 15.000 metros cuadrados"
+,json,,TE PUEDE INTERESAR,Referencia salarial. Cuánto cobran los caseros en mayo
