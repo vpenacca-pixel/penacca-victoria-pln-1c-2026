@@ -1,0 +1,4 @@
+Link a la app en Hugging Face del TP final de la materia Técnicas de Procesamiento de Habla 2026
+Equipo Sara Lucero y Victoria Penacca
+
+https://huggingface.co/spaces/vpenacca/LLMTPFINAL
